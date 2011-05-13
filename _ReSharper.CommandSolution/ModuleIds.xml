@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="221EFD68-2370-4680-ABC4-0E3D85B34859" ModuleId="Commands" />
+  <Module PersistentId="65CC22F7-999F-4065-8F32-16BF456902C2" ModuleId="CommandTests" />
+</Modules>
